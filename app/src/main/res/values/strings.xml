@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">What if we have that kind of attitude.</string>
+    <string name="affirmation2">The car`s repossessed.</string>
+    <string name="affirmation3">Nobody believes in you.</string>
+    <string name="affirmation4">You`ve lost again </string>
+    <string name="affirmation5">and again and again.</string>
+    <string name="affirmation6">The lights are cut off.</string>
+    <string name="affirmation7">But you`re still looking at your dream.</string>
+    <string name="affirmation8">Reviewing it every day</string>
+    <string name="affirmation9">and saying to yourself.</string>
+    <string name="affirmation10">"It's not over until I win (and buy RAV4)"</string>
+</resources>
